@@ -13,7 +13,7 @@ Source Code for "Multi-Modal Deep Distance Metric Learning"
   year={2017},
   publisher={IOS Press}
 }
-DOI: 10.3233/IDA-163196
+
 
 - This code is based on Wang Wei's [1] code for "Effective Multimodal Retrieval Based on Stacked Autoencoders."
 
